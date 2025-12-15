@@ -31,4 +31,4 @@ public class Main {
  rect.resizeHeight(75);
  System.out.println("After resizing:");
  rect.displayDimensions();
- } }
+ } 
